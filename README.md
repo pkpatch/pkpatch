@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am currently a training with Sparta Global to become a Java SDET.
+
 <!--
 **pkpatch/pkpatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
